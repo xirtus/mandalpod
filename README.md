@@ -1,5 +1,7 @@
 # MANDELPOD — Psychedelic Octopus in the Sea of SpaceTime
 
+![MANDELPOD canyon run](docs/screenshot.jpg)
+
 An original AAA-style 3D action platformer for the browser, built with Three.js (WebGL2)
 and 100% procedural everything — no downloaded assets: every model, texture, shader,
 sound effect and music note is generated in code.
