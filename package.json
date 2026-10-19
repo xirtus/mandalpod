@@ -1,0 +1,26 @@
+{
+  "name": "mandalpod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vite --port 5173 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview",
+    "osc": "node tools/osc-bridge.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "three": "^0.185.1",
+    "vite": "^8.2.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
